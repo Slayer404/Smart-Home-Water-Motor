@@ -47,7 +47,7 @@ The motivation behind this project includes:
 
 ### Design Procedure
 
-1. **Component Selection**: Choose appropriate components like ultrasonic sensor, relay module, and microcontroller (e.g., Arduino).
+1. **Component Selection**: Choose appropriate components like ultrasonic sensor, relay module, and microcontroller (e.g., ESP32).
 2. **System Integration**: Connect the components ensuring proper wiring and signal transmission.
 3. **Algorithm Development**: Implement an algorithm for the microcontroller to process sensor data and control the relay.
 
@@ -62,7 +62,7 @@ The motivation behind this project includes:
 ## Setup and Installation
 
 1. Follow the circuit diagram to connect the components.
-2. Upload the provided Arduino code to your microcontroller.
+2. Upload the provided ESP32 code to your microcontroller.
 
 ## Usage
 
