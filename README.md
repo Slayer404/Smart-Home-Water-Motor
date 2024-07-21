@@ -78,5 +78,5 @@ The motivation behind this project includes:
 
 ## Contributors
 
-- **Sasanka Barman** (Roll No: 210101016)
-- **Himangki Das** (Roll No: 210101024)
+- **Sasanka Barman**
+- **Himangki Das**
