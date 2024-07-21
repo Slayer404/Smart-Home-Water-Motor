@@ -43,7 +43,7 @@ The motivation behind this project includes:
 
 ### Circuit Diagram
 
-![Circuit Diagram]()
+![Circuit Diagram](circuitdiagram.jpg)
 
 ### Design Procedure
 
