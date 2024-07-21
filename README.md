@@ -39,7 +39,7 @@ The motivation behind this project includes:
 
 ### Block Diagram
 
-![Block Diagram](path/to/block_diagram.png)
+![Block Diagram](BlockDiagram.png)
 
 ### Circuit Diagram
 
