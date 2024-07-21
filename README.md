@@ -15,7 +15,6 @@ This project presents a smart home water motor control system designed to optimi
 - [Usage](#usage)
 - [Future Enhancements](#future-enhancements)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## Introduction
 
